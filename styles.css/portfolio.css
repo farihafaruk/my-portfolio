@@ -47,7 +47,7 @@ header{
     background-color:#ecc7ad;
     padding-top: 50px;
     background: url(../images/developer.png),url(../images/header_bg.png) hsl(24, 51%, 87%);
-    background-position: top left, bottom right;
+    background-position: 30px 10px, bottom right;
     background-repeat: no-repeat;
 }
 nav{
